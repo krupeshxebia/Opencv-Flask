@@ -7,7 +7,7 @@
 This is quick start boiler plate for streaming opencv video capture on web server using flask.
 
 <p align="center">
-<img src='./example.png' width="600">
+<img src='./example.png'>
 </p>
 <br>
 
